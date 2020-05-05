@@ -1,0 +1,45 @@
+{
+
+    "items": [
+      {
+        "name": "第一站: 亚利桑那",
+        "shape": "circle",
+        "coords": [93, 197, 10],
+        "preFillColor": "rgb(48, 131, 246, 0.8)",
+        "fillColor": "rgb(255,255,255,0.3)",
+        "lineWidth": 4,
+        "strokeColor": "white",
+        "href":"/#/亚利桑那"
+      },
+      {
+        "name": "第二站: 得克萨斯州",
+        "shape": "circle",
+        "coords": [226, 251, 10],
+        "preFillColor": "rgb(48, 131, 246, 0.8)",
+        "fillColor": "rgb(255,255,255,0.3)",
+        "lineWidth": 4,
+        "strokeColor": "white",
+        "href":"/#/得克萨斯"
+      },
+      {
+        "name": "第三站: 俄克拉马州",
+        "shape": "circle",
+        "coords": [249, 194, 10],
+        "preFillColor": "rgb(48, 131, 246, 0.8)",
+        "fillColor": "rgb(255,255,255,0.3)",
+        "lineWidth": 4,
+        "strokeColor": "white",
+        "href":"/#/俄克拉马"
+      },
+      {
+        "name": "第四站: 阿肯色州",
+        "shape": "circle",
+        "coords": [303, 207, 10],
+        "preFillColor": "rgb(48, 131, 246, 0.8)",
+        "fillColor": "rgb(255,255,255,0.3)",
+        "lineWidth": 4,
+        "strokeColor": "white",
+        "href":"/#/阿肯色"
+      }
+    ]
+}
